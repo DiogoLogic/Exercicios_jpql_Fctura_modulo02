@@ -1,10 +1,6 @@
 # Resolução de Exercícios JPQL - Segundo Módulo
 
-
-# Resolução de Exercícios JPQL - Segundo Módulo
-
-
-### 1. Banco de Dados Postgresql
+### Banco de Dados Postgresql
 
 Exercício de Fixação
 Para cada comando de select abaixo solicite que o usuário digite o valor.
